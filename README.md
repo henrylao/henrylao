@@ -2,7 +2,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrylao&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 <!--
 **henrylao/henrylao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
