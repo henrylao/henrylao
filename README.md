@@ -14,12 +14,14 @@
 <p align="left">
   <a href=""><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats"></a>
   
+<a href="https://github.com/henrylao/P3-SemanticSegmentation"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=P3-SemanticSegmentation&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
   
-    <a href="https://github.com/henrylao/custom-icon-badges"><img width="282" src="https://henrylao-github-readme-stats.vercel.app/api/pin?username=henrylao&repo=custom-icon-badges&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
-  
+  [![Readme Card]()](https://github.com/anuraghazra/github-readme-stats)
+
   <a href="https://github.com/henrylao/P3-SemanticSegmentation">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=https://github.com/henrylao/P3-SemanticSegmentation" />
 </a>
+  
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
