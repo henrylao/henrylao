@@ -2,7 +2,7 @@
   Welcome to Henry Lao's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
-<img alt="" align="center" width="50" src="https://github.com/henrylao/henrylao/blob/main/robo.gif"> </img>
+<img alt="" align="center" width="auto" src="https://github.com/henrylao/henrylao/blob/main/robo.gif"> </img>
 
 <!-- <p align="center">
 <img src="" width="75"> 
