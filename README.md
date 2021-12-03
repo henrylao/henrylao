@@ -51,7 +51,7 @@
 </p>
   
 
-### 🤖 Machine Learning Frameworks and Libraries
+### 🤖 Machine Learning Frameworks and Data Science Libraries
 
 <p>
 <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"></a>
@@ -62,6 +62,9 @@
   </a>
   <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
   <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
+  <a href="#"><img alt="scikit-learn" src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.svg"></a>
+  <a href="#"><img alt="matplotlib" src="https://matplotlib.org/_static/logo2.svg"></a>
+  
 
 ### 🧰 Microservices
   
