@@ -3,10 +3,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<p align="center">
-  <a href=""><img src=""></a>
-</p>
-
 | | |
 |---|---|
 |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrylao&theme=radical&hide=jupyter%20notebook&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)| |
@@ -22,17 +18,6 @@
 <a href="https://github.com/henrylao/kaggle-ames-housing"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=kaggle-ames-housing&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a> 
 <a href="https://github.com/henrylao/SquadHouse"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=SquadHouse&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a> 
 <a href="https://github.com/henrylao/circnn"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=circnn&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a> 
-
-  
-  [![Readme Card]()](https://github.com/anuraghazra/github-readme-stats)
-
-  <a href="https://github.com/henrylao/P3-SemanticSegmentation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=https://github.com/henrylao/P3-SemanticSegmentation" />
-</a>
-  
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
 
   
 ## 🛠️ My favorite tools
