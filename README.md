@@ -50,7 +50,7 @@
 </p>
   
 
-### 🧰 Machine Learning Frameworks and Libraries
+### 🤖 Machine Learning Frameworks and Libraries
 
 <p>
 <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"></a>
