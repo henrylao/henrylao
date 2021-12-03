@@ -2,10 +2,10 @@
   Welcome to Henry Lao's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
-
+<!-- 
 | | |
 |---|---|
-|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrylao&theme=radical&hide=jupyter%20notebook&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)| |
+|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrylao&theme=radical&hide=jupyter%20notebook&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)| | -->
 
 ## 📘 Things I've Worked On...
 <p align="left">
