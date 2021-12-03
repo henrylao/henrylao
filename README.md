@@ -9,7 +9,6 @@
 
 ## 📘 Things I've Worked On...
 <p align="left">
-  
 <a href="https://github.com/henrylao/mscgNetV2"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=mscgNetV2&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
 <a href="https://github.com/henrylao/Agriculture-vision-app"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=Agriculture-vision-app&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a> 
 <a href="https://github.com/henrylao/user-api-service"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=user-api-service&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a> 
