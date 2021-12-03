@@ -62,8 +62,8 @@
   </a>
   <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
   <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
-  <a href="#"><img alt="scikit-learn" src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.svg"></a>
-  <a href="#"><img alt="matplotlib" src="https://matplotlib.org/_static/logo2.svg"></a>
+<!--   <a href="#"><img alt="scikit-learn" src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.svg"></a>
+  <a href="#"><img alt="matplotlib" src="https://matplotlib.org/_static/logo2.svg"></a> -->
   
 
 ### 🧰 Microservices
