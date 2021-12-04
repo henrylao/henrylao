@@ -39,7 +39,15 @@
 ### Java Projects
 <p align="left">
 <a href="https://github.com/henrylao/kbb-clone"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=kbb-clone&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a> 
+  
+  <a href="https://github.com/henrylao/travel-web-app"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=travel-web-app&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a> 
 </p>
+
+<a href="https://github.com/henrylao/user-api-service"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=user-api-service&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a> 
+</p>
+
+
+
 
 ### C++ Projects
 <p align="left">
