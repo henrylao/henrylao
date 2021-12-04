@@ -17,10 +17,14 @@
 ## 📘 Things I've Worked On...
 ### Python Machine Learning / Data Science Projects
 <p align="left">
-<a href="https://github.com/henrylao/mscgNetV2"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=mscgNetV2&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
-<a href="https://github.com/henrylao/user-api-service"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=user-api-service&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a> 
-<a href="https://github.com/henrylao/kaggle-titanic"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=kaggle-titanic&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a> 
-<a href="https://github.com/henrylao/kaggle-ames-housing"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=kaggle-ames-housing&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a> 
+  <a href="https://github.com/henrylao/mscgNetV2"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=mscgNetV2&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
+  <a href="https://github.com/henrylao/user-api-service"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=user-api-service&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a> 
+  <a href="https://github.com/henrylao/kaggle-titanic"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=kaggle-titanic&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a> 
+  <a href="https://github.com/henrylao/kaggle-ames-housing"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=kaggle-ames-housing&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a> 
+  
+<!-- <a href="https://github.com/henrylao/commai-calib-challenge"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=commai-calib-challenge&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>  -->
+<!-- <a href="https://github.com/henrylao/circnn"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=circnn&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a> 
+ -->
 </p>
 
 ### Android Projects
@@ -28,21 +32,20 @@
 <a href="https://github.com/henrylao/mobileCV4Agriculture"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=mobileCV4Agriculture&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a> 
   <a href="https://github.com/henrylao/Flickster"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=Flickster&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a> 
   <a href="https://github.com/henrylao/Tw1tt3r"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=Tw1tt3r&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a> 
-
 </p>
 
 ### iOS Projects
 <p align="left">
-<a href="https://github.com/henrylao/Tw1tt3r-IOS"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=Tw1tt3r-IOS&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>   
+  <a href="https://github.com/henrylao/Tw1tt3r-IOS"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=Tw1tt3r-IOS&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>   
   <a href="https://github.com/henrylao/Flickster-IOS"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=Flickster-IOS&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>   
 </p>  
   
 ### Java Projects
 <p align="left">
-<a href="https://github.com/henrylao/kbb-clone"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=kbb-clone&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a> 
+  <a href="https://github.com/henrylao/kbb-clone"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=kbb-clone&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a> 
   <a href="https://github.com/henrylao/travel-web-app"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=travel-web-app&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a> 
 </p>
-<a href="https://github.com/henrylao/user-api-service"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=user-api-service&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a> 
+  <a href="https://github.com/henrylao/user-api-service"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=user-api-service&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a> 
 </p>
 
 ### C++ Projects
@@ -51,9 +54,6 @@
 </p>  
 
   
-<!-- <a href="https://github.com/henrylao/commai-calib-challenge"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=commai-calib-challenge&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>  -->
-<!-- <a href="https://github.com/henrylao/circnn"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=circnn&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a> 
- -->
   
 ## 🛠️ My favorite tools
 
