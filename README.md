@@ -18,14 +18,20 @@
 ### Python Machine Learning / Data Science Projects
 <p align="left">
 <a href="https://github.com/henrylao/mscgNetV2"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=mscgNetV2&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
-
 <a href="https://github.com/henrylao/user-api-service"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=user-api-service&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a> 
 <a href="https://github.com/henrylao/kaggle-titanic"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=kaggle-titanic&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a> 
 <a href="https://github.com/henrylao/kaggle-ames-housing"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=kaggle-ames-housing&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a> 
   
 ### Android Projects
 <a href="https://github.com/henrylao/mobileCV4Agriculture"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=mobileCV4Agriculture&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a> 
-<a href="https://github.com/henrylao/SquadHouse"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=SquadHouse&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a> 
+  <a href="https://github.com/henrylao/mobileCV4Agriculture"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=mobileCV4Agriculture&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a> 
+  <a href="https://github.com/henrylao/Tw1tt3r"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=Tw1tt3r&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a> 
+  <a href="https://github.com/henrylao/Flickster"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=Flickster&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a> 
+  
+### iOS Projects
+<a href="https://github.com/henrylao/Tw1tt3r-IOS"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=Tw1tt3r-IOS&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>   
+  <a href="https://github.com/henrylao/Flickster-IOS"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=Flickster-IOS&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>   
+  
   
 ### Java Projects
   
