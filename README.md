@@ -18,7 +18,6 @@
 ### Python Machine Learning / Data Science Projects
 <p align="left">
   <a href="https://github.com/henrylao/mscgNetV2"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=mscgNetV2&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
-  <p align="left">
   <a href="https://github.com/henrylao/mlacc"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=mlacc&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
   <a href="https://github.com/henrylao/kaggle-ames-housing"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=kaggle-ames-housing&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a> 
   <a href="https://github.com/henrylao/kaggle-titanic"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=kaggle-titanic&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a> 
