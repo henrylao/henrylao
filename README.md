@@ -1,31 +1,13 @@
 <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" rel="stylesheet"/>
 
 <h1 align="center">Hi 👋, I'm Henry Lao</h1>
-<table border="0">
+<table border="-1"; style="color:transparent">
  <tr>
     <td><b style="font-size:30px">Title</b></td>
     <td><b style="font-size:30px">Title 2</b></td>
  </tr>
  <tr>
-    <td>Lorem ipsum ...</td>
-    <td>Lorem ipsum ...</td>
- </tr>
-</table>
-<div class="container">
-  <div class="row">
-      <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-          First Column
-      </div>
-      <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-          Second Column
-      </div>
-  </div>
-</div>
-
-<div class="container">
-  <div class="row">
-    <div class="col">
-    <h3 align="center">About Me</h3>
+    <td><h3 align="center">About Me</h3>
     <p>A senior at CSUEB studying Computer Science specializing in Machine Learning</p>
 
 - 🔭 I’m currently working on [ML Accelerator Research](https://github.com/henrylao/mlacc/)
@@ -39,10 +21,27 @@
   <h3 align="left">Connect with me:
   <p align="left">
   <a href="https://linkedin.com/in/henry-lao/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="henry-lao/" height="30" width="40" /></a><a href="https://kaggle.com/henrylao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="henrylao" height="30" width="40" /></a>
-  </p>
-        </h3>
+  </p></h3>
       </div>
-      <div class="col">
+      <div class="col"></td>
+    <td>Lorem ipsum ...</td>
+ </tr>
+</table>
+<!-- <div class="container">
+  <div class="row">
+      <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+          First Column
+      </div>
+      <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+          Second Column
+      </div>
+  </div>
+</div> -->
+
+<div class="container">
+  <div class="row">
+    <div class="col">
+    
         <!-- Column 2 -->
   <h3 align="left">Languages and Tools</h3>
   <p align="left">
