@@ -1,18 +1,17 @@
 <!-- <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" rel="stylesheet"/> -->
 
 <h1 align="center">Hi 👋, I'm Henry Lao</h1>
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                First Column
-            </div>
-            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                Second Column
-            </div>
-        </div>
-    </div>
 
-
+<div class="container">
+  <div class="row">
+      <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+          First Column
+      </div>
+      <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+          Second Column
+      </div>
+  </div>
+</div>
 
 <div class="container">
   <div class="row">
@@ -82,6 +81,7 @@
 <!-- <h3>More Projects</h3> -->
 
 ### More Projects - Java/Android, C++, IOS
+
 <!-- <h3><summary></summary></h3> -->
 <details>
 <!-- <br> -->
