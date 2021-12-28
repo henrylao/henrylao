@@ -1,5 +1,5 @@
 <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" rel="stylesheet"/>
-
+<head>
 <style>
   table, th, td
 {
@@ -9,7 +9,7 @@ table
 {
   border-collapse:collapse;
 }
-</style>
+</style></head>
 
 <h1 align="center">Hi 👋, I'm Henry Lao</h1>
 <table border="0"; style="color:transparent">
