@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm henrylao</h1>
 <h3 align="center">A senior at CSUEB studying Computer Science specializing in Machine Learning</h3>
 
+- 🔭 I’m currently working on [ML Accelerator Research](https://github.com/henrylao/mlacc/)
+
 - 👨‍💻 All of my projects are available at [https://www.henrylao.com/](https://www.henrylao.com/)
 
 - 📫 How to reach me **hclao1995@gmail.com**
