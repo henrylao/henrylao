@@ -1,7 +1,16 @@
 <!-- <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" rel="stylesheet"/> -->
 
 <h1 align="center">Hi 👋, I'm Henry Lao</h1>
-
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">Title</b></td>
+    <td><b style="font-size:30px">Title 2</b></td>
+ </tr>
+ <tr>
+    <td>Lorem ipsum ...</td>
+    <td>Lorem ipsum ...</td>
+ </tr>
+</table>
 <div class="container">
   <div class="row">
       <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
