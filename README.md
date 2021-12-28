@@ -58,23 +58,20 @@
 </p>
 
 <details>
-<summary>How do I dropdown?</summary>
+<summary><h3>More Projects</h3></summary>
 <br>
 This is how you dropdown.
 <br><br>
 <pre>
-### iOS Projects
+<h3>iOS Projects</h3> 
 
 <p align="left">
   <a href="https://github.com/henrylao/Tw1tt3r-IOS"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=Tw1tt3r-IOS&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>   
   <a href="https://github.com/henrylao/Flickster-IOS"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=Flickster-IOS&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>   
 </p>  
-</pre>
-</details>
 
-
-  
-### Java Projects
+<!-- ### Java Projects -->
+<h3>Java Projects</h3>
 <p align="left">
   <a href="https://github.com/henrylao/kbb-clone"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=kbb-clone&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a> 
   <a href="https://github.com/henrylao/travel-web-app"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=travel-web-app&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a> 
@@ -82,11 +79,18 @@ This is how you dropdown.
   <a href="https://github.com/henrylao/user-api-service"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=user-api-service&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a> 
 </p>
 
-### C++ Projects
+<!-- ### C++ Projects -->
+<h3>C++ Projects</h3>
 
 <p align="left">
   <a href="https://github.com/henrylao/myMDB"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=myMDB&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a> 
 </p>
+</pre>
+</details>
+
+
+  
+
 
 ## 🛠️ My favorite tools
 
