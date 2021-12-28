@@ -23,9 +23,7 @@
   <div class="column">
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
   </div>
 </div>
@@ -59,12 +57,22 @@
   <a href="https://github.com/henrylao/Tw1tt3r"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=Tw1tt3r&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a> 
 </p>
 
+<details>
+<summary>How do I dropdown?</summary>
+<br>
+This is how you dropdown.
+<br><br>
+<pre>
 ### iOS Projects
 
 <p align="left">
   <a href="https://github.com/henrylao/Tw1tt3r-IOS"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=Tw1tt3r-IOS&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>   
   <a href="https://github.com/henrylao/Flickster-IOS"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=Flickster-IOS&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>   
 </p>  
+</pre>
+</details>
+
+
   
 ### Java Projects
 <p align="left">
