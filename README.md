@@ -16,31 +16,14 @@
 
 </div> -->
 
-<table>
-<tr>
-<th> Good </th>
-<th> Bad </th>
-</tr>
-<tr>
-<td>
-  <img alt=""  width="25%" src="https://github.com/henrylao/henrylao/blob/main/robo.gif"></img>
-</td>
-<td>
+<img alt=""  width="25%" src="https://github.com/henrylao/henrylao/blob/main/robo.gif"></img>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-
-</td>
-</tr>
-</table>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 <!-- <div class="row">
   <div class="column"> -->
   <!-- </div>
   <div class="column"> -->
-
-
-
-
 
   <!-- </div> -->
 <!-- </div> -->
@@ -75,17 +58,19 @@
 </p>
 
 <!-- <h3>More Projects</h3> -->
+
 ### IOS, Java, C++ Projects
+
 <!-- <h3><summary></summary></h3> -->
 <details>
 <br>
 <br><br>
 <pre>
-<h3>iOS Projects</h3> 
+<h3>iOS Projects</h3>
 
 <p align="left">
   <a href="https://github.com/henrylao/Tw1tt3r-IOS"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=Tw1tt3r-IOS&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>   <a href="https://github.com/henrylao/Flickster-IOS"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=Flickster-IOS&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>   
-</p>  
+</p>
 
 <!-- ### Java Projects -->
 <h3>Java Projects</h3>
@@ -102,10 +87,6 @@
 </p>
 </pre>
 </details>
-
-
-  
-
 
 ## 🛠️ My favorite tools
 
