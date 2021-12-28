@@ -7,26 +7,32 @@
 </p>
 
 <!-- <p align="center">
-<img src="" width="75"> 
+<img src="" width="75">
 </p> -->
-<!-- 
+<!--
 | | |
 |---|---|
 |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrylao&theme=radical&hide=jupyter%20notebook&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)| | -->
 
 ## 📘 Things I've Worked On...
-### Python Machine Learning / Data Science Projects
-| ML | ETC | ETC| ETC| 
-| ---- | ---- | ---- |---- |
-| <a href="https://github.com/henrylao/mscgNetV2"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=mscgNetV2&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>| <a href="https://github.com/henrylao/mlacc"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=mlacc&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>| <a href="https://github.com/henrylao/kaggle-ames-housing"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=kaggle-ames-housing&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a> |<a href="https://github.com/henrylao/kaggle-titanic"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=kaggle-titanic&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a> |
-<!-- <p align="left"> -->
 
-<!-- </p> -->
+### Python Machine Learning / Data Science Projects
+
+<p align="left">
+
+<a href="https://github.com/henrylao/mscgNetV2"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=mscgNetV2&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>  
+ <a href="https://github.com/henrylao/mlacc"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=mlacc&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
+<a href="https://github.com/henrylao/kaggle-ames-housing"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=kaggle-ames-housing&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
+
+<a href="https://github.com/henrylao/kaggle-titanic"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=kaggle-titanic&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
+
+</p>
 <!-- <a href="https://github.com/henrylao/commai-calib-challenge"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=commai-calib-challenge&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>  -->
-<!-- <a href="https://github.com/henrylao/circnn"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=circnn&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a> 
+<!-- <a href="https://github.com/henrylao/circnn"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=circnn&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
  -->
 
 ### Android Projects
+
 <p align="left">
 <a href="https://github.com/henrylao/mobileCV4Agriculture"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=mobileCV4Agriculture&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a> 
   <a href="https://github.com/henrylao/Flickster"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=Flickster&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a> 
@@ -34,6 +40,7 @@
 </p>
 
 ### iOS Projects
+
 <p align="left">
   <a href="https://github.com/henrylao/Tw1tt3r-IOS"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=Tw1tt3r-IOS&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>   
   <a href="https://github.com/henrylao/Flickster-IOS"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=Flickster-IOS&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>   
@@ -48,12 +55,11 @@
 </p>
 
 ### C++ Projects
+
 <p align="left">
   <a href="https://github.com/henrylao/myMDB"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=myMDB&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a> 
-</p>  
+</p>
 
-  
-  
 ## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming languages
@@ -77,7 +83,6 @@
   <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asvg"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a>
 </p>
-  
 
 ### 🤖 Machine Learning Frameworks and Data Science Libraries
 
@@ -86,16 +91,16 @@
 <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-D00000.svg?logo=Keras&logoColor=white"></a>
 <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
 
-  <a href="#"><img alt="SciPy" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white">
-  </a>
-  <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
-  <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
+<a href="#"><img alt="SciPy" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white">
+</a>
+<a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
+<a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
+
 <!--   <a href="#"><img alt="scikit-learn" src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.svg"></a>
   <a href="#"><img alt="matplotlib" src="https://matplotlib.org/_static/logo2.svg"></a> -->
-  
 
 ### 🧰 Microservices
-  
+
 <a href="#"><img alt="JUnit" src="https://custom-icon-badges.herokuapp.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white"></a>
 <a href="#"><img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white"></a>
 <a href="#"><img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"></a>
@@ -112,7 +117,6 @@
 <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
 <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
 <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
-
 
 </p>
 
