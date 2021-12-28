@@ -58,7 +58,8 @@
 </p>
 
 <details>
-<h3><summary>More Projects</summary></h3>
+<h3>More Projects</h3>
+<!-- <h3><summary></summary></h3> -->
 <br>
 <br><br>
 <pre>
