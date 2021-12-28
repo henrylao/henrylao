@@ -1,19 +1,16 @@
 <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" rel="stylesheet"/>
 
 <h1 align="center">Hi 👋, I'm Henry Lao</h1>
-<div class="row" style="text-align: center;">
-<div class="col-md-8">
-<p>CONTENT PLACEHOLDER</p>
-
-<p>CONTENT PLACEHOLDER</p>
-</div>
-<div class="col-md-4">
-<p>CONTENT PLACEHOLDER</p>
-
-<p>CONTENT PLACEHOLDER</p>
-</div>
-</div>
-
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                First Column
+            </div>
+            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                Second Column
+            </div>
+        </div>
+    </div>
 
 
 
