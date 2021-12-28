@@ -1,7 +1,16 @@
 <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" rel="stylesheet"/>
-
+<style>
+  table, th, td
+{
+  border: 0;
+}
+table
+{
+  border-collapse:collapse;
+}
+</style>
 <h1 align="center">Hi 👋, I'm Henry Lao</h1>
-<table border="-1"; style="color:transparent">
+<table border="0"; style="color:transparent">
  <tr>
     <td><b style="font-size:30px"><h3 align="center">About Me</h3></b></td>
     <td><b style="font-size:30px"><h3 align="left">Languages and Tools</h3></b></td>
