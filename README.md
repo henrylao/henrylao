@@ -16,7 +16,7 @@
 
 </div> -->
 
-<!-- <table> -->
+<table>
 <tr>
 <!-- <th> Good </th>
 <th> Bad </th> -->
@@ -34,7 +34,7 @@
 
 </td>
 </tr>
-<!-- </table> -->
+</table>
 
 <!-- <div class="row">
   <div class="column"> -->
