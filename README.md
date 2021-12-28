@@ -18,10 +18,11 @@
 
 - 📄 Know about my experiences [https://www.henrylao.com/static/docs/resume.pdf](https://www.henrylao.com/static/docs/resume.pdf)
   <!-- Column 1 -->
-  <h3 align="left">Connect with me:
-  <p align="left">
+  <h3 align="left">Connect with me
+  <!-- <p align="left"> -->
   <a href="https://linkedin.com/in/henry-lao/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="henry-lao/" height="30" width="40" /></a><a href="https://kaggle.com/henrylao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="henrylao" height="30" width="40" /></a>
-  </p></h3>
+  <!-- </p> -->
+  </h3>
       </div>
       <div class="col"></td>
     <td><!-- Column 2 -->
@@ -73,7 +74,8 @@
 
 ### Machine Learning / Data Science Projects
 
-<p align="left"><a href="https://github.com/henrylao/mlacc"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=mlacc&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a><a href="https://github.com/henrylao/mscgNetV2"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=mscgNetV2&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a><a href="https://github.com/henrylao/kaggle-ames-housing"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=kaggle-ames-housing&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a><a href="https://github.com/henrylao/kaggle-titanic"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=kaggle-titanic&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a></p>
+<p align="left">
+<a href="https://github.com/henrylao/mlacc"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=mlacc&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a><a href="https://github.com/henrylao/mscgNetV2"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=mscgNetV2&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a><a href="https://github.com/henrylao/kaggle-ames-housing"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=kaggle-ames-housing&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a><a href="https://github.com/henrylao/kaggle-titanic"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=kaggle-titanic&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a></p>
 <!-- <a href="https://github.com/henrylao/commai-calib-challenge"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=commai-calib-challenge&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>  -->
 <!-- <a href="https://github.com/henrylao/circnn"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=circnn&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
  -->
