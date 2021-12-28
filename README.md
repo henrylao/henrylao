@@ -14,7 +14,15 @@
 |---|---|
 |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrylao&theme=radical&hide=jupyter%20notebook&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)| | -->
 
-## 📘 Things I've Worked On...
+| Langs | ML Libs | Etc |
+| --- | --- | --- |
+|   <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>  |  <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"></a>
+<a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-D00000.svg?logo=Keras&logoColor=white"></a>
+<a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>   |   Test  |
+
+## 📘 What I've been up to...
 
 ### Python Machine Learning / Data Science Projects
 
