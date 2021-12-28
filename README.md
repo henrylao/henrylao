@@ -57,7 +57,8 @@
   <a href="https://github.com/henrylao/Tw1tt3r"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=henrylao&repo=Tw1tt3r&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a> 
 </p>
 
-<h3>More Projects</h3>
+<!-- <h3>More Projects</h3> -->
+### IOS, Java, C++ Projects
 <!-- <h3><summary></summary></h3> -->
 <details>
 <br>
