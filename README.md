@@ -1,6 +1,6 @@
 <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" rel="stylesheet"/>
-<head>
-<style>
+
+<!-- <style>
   table, th, td
 {
   border: 0;
@@ -9,10 +9,10 @@ table
 {
   border-collapse:collapse;
 }
-</style></head>
+</style> -->
 
 <h1 align="center">Hi 👋, I'm Henry Lao</h1>
-<table border="0"; style="color:transparent">
+<table table-borderless border="0"; style="color:transparent">
  <tr>
     <td><b style="font-size:30px"><h3 align="center">About Me</h3></b></td>
     <td><b style="font-size:30px"><h3 align="left">Languages and Tools</h3></b></td>
