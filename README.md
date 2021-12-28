@@ -23,7 +23,7 @@
 </tr>
 <tr>
 <td>
-  <img alt=""  width="25%" src="https://github.com/henrylao/henrylao/blob/main/robo.gif"> </img>
+  <img alt=""  width="25%" src="https://github.com/henrylao/henrylao/blob/main/robo.gif"></img>
 </td>
 <td>
 
