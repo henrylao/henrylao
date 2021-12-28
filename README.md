@@ -18,15 +18,12 @@
 
 <table>
 <tr>
-<!-- <th> Good </th>
-<th> Bad </th> -->
+<th> Good </th>
+<th> Bad </th>
 </tr>
 <tr>
 <td>
-
   <img alt=""  width="25%" src="https://github.com/henrylao/henrylao/blob/main/robo.gif"> </img>
-
-
 </td>
 <td>
 
